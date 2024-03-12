@@ -7,7 +7,10 @@
 			"files": [
 				"V:/Users/boohe/Documents/UnrealProjects/Casino-master/Content/Meshes/SM_Table_Blackjack_01.uasset",
 				"V:/Users/boohe/Documents/UnrealProjects/Casino-master/Content/Meshes/MI_Table_Blackjack_02.uasset",
-				"V:/Users/boohe/Documents/UnrealProjects/Casino-master/Content/Blueprint/BP_Blackjack.uasset"
+				"V:/Users/boohe/Documents/UnrealProjects/Casino-master/Content/Blueprint/BP_Blackjack.uasset",
+				"V:/Users/boohe/Documents/UnrealProjects/Casino-master/Content/Textures/BlackJack_TBL1_2png.uasset",
+				"V:/Users/boohe/Documents/UnrealProjects/Casino-master/Content/__ExternalActors__/Maps/ThirdPersonMap/C/CE/GBSOUVGP4KIB5H806ZPTZP.uasset",
+				"V:/Users/boohe/Documents/UnrealProjects/Casino-master/Content/Blueprint/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]

@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"V:/Users/boohe/Documents/UnrealProjects/Casino-master/Content/Meshes/SM_Table_Blackjack_01.uasset",
+				"V:/Users/boohe/Documents/UnrealProjects/Casino-master/Content/Meshes/MI_Table_Blackjack_02.uasset",
+				"V:/Users/boohe/Documents/UnrealProjects/Casino-master/Content/Blueprint/BP_Blackjack.uasset"
+			]
+		}
+	]
+}
